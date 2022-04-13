@@ -1,0 +1,33 @@
+{
+  "authors": [
+    "rchavarria"
+  ],
+  "contributors": [
+    "ankorGH",
+    "cmccandless",
+    "matthewmorgan",
+    "ryanplusplus",
+    "serixscorpio",
+    "SleeplessByte"
+  ],
+  "files": {
+    "solution": [
+      "roman-numerals.js"
+    ],
+    "test": [
+      "roman-numerals.spec.js"
+    ],
+    "example": [
+      ".meta/proof.ci.js"
+    ]
+  },
+  "blurb": "Write a function to convert from normal numbers to Roman Numerals.",
+  "source": "The Roman Numeral Kata",
+  "source_url": "http://codingdojo.org/cgi-bin/index.pl?KataRomanNumerals",
+  "custom": {
+    "version.tests.compatibility": "jest-27",
+    "flag.tests.task-per-describe": false,
+    "flag.tests.may-run-long": false,
+    "flag.tests.includes-optional": false
+  }
+}
